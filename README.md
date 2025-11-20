@@ -1,4 +1,4 @@
-Titanic Dataset EDA – Jupyter Notebook (Kaggle Dataset)
+#Titanic Dataset EDA – Jupyter Notebook (Kaggle Dataset)
 
 
 This repository contains my Exploratory Data Analysis (EDA) on the Titanic dataset using a custom Jupyter Notebook file named EDA_Titanic.ipynb, created in VS Code. The project focuses on data cleaning, preprocessing, visualization, and understanding survival patterns.
